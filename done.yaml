@@ -1,2 +1,4 @@
 1. add topics.yaml for spring profiles local, prod, test
 2. add credentials.yaml for spring profiles local, prod, test and add them to .gitignore
+3. add readme.md
+4. add jwt key
