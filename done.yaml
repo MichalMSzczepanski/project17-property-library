@@ -2,3 +2,4 @@
 2. add credentials.yaml for spring profiles local, prod, test and add them to .gitignore
 3. add readme.md
 4. add jwt key
+5. update notification_topic to user_topic
